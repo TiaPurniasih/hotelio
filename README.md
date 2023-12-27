@@ -1,16 +1,4 @@
-# hotelio_3
+# hotelio_apps
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hotelio merupakan aplikasi booking hotel sederhana yang saya dapatkan dari kursus online di Build withAngga. Menggunakan flutter 3.0.
+Dalam project kelas ini,  saya belajar membuat mobile aplikasi booking hotel dimana belajar membangun fitur-fitur penting yang mendukung project seperti slicing UI dari design yang sudah tersedia, implementasi GetX untuk state management dan bagaimana implementasi setting koneksi ke Firebase menggunakan Firebase CLI, sehingga proses koneksi bisa lebih cepat.
